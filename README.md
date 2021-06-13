@@ -89,3 +89,5 @@ return user;
 [RestTemplate 使用中，异常报错处理](https://blog.csdn.net/houzidengyue/article/details/81907085)
 
 https://www.cnblogs.com/huangminwen/p/6069072.html
+
+https://www.cnblogs.com/linjiangxian/p/13097863.html
