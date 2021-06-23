@@ -92,4 +92,10 @@ https://www.cnblogs.com/huangminwen/p/6069072.html
 
 https://www.cnblogs.com/linjiangxian/p/13097863.html
 
+LDAP
+
 https://blog.csdn.net/fukaiit/article/details/112427711
+
+https://blog.csdn.net/weixin_34018202/article/details/89613916
+
+https://www.jianshu.com/p/c87588d0fde4
